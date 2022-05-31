@@ -1,0 +1,21 @@
+C:\Users\Valeriy\source\repos\WcfService1\bin\WcfService1.dll.config
+C:\Users\Valeriy\source\repos\WcfService1\bin\WcfService1.dll
+C:\Users\Valeriy\source\repos\WcfService1\bin\WcfService1.pdb
+C:\Users\Valeriy\source\repos\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\Valeriy\source\repos\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Valeriy\source\repos\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Valeriy\source\repos\WcfService1\obj\Debug\WcfService1.pdb
+C:\VisualStudioProject\Lab4\Practice_4_2\WcfService1\bin\WcfService1.dll.config
+C:\VisualStudioProject\Lab4\Practice_4_2\WcfService1\bin\WcfService1.dll
+C:\VisualStudioProject\Lab4\Practice_4_2\WcfService1\bin\WcfService1.pdb
+C:\VisualStudioProject\Lab4\Practice_4_2\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\VisualStudioProject\Lab4\Practice_4_2\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\Lab4\Practice_4_2\WcfService1\obj\Debug\WcfService1.dll
+C:\VisualStudioProject\Lab4\Practice_4_2\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\Practice_4_2\WcfService1\bin\WcfService1.dll.config
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\Practice_4_2\WcfService1\bin\WcfService1.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\Practice_4_2\WcfService1\bin\WcfService1.pdb
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\Practice_4_2\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\Practice_4_2\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\Practice_4_2\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\destr\OneDrive\Рабочий стол\Бокова 2 курс\Информационные технологии\Practice_4_2\WcfService1\obj\Debug\WcfService1.pdb
